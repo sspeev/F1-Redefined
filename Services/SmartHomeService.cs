@@ -2,7 +2,6 @@ using System.Diagnostics;
 using System.IO;
 using System.Net.Http;
 using F1_Redefined.Configuration;
-using F1_Redefined.F1;
 
 namespace F1_Redefined.Services;
 

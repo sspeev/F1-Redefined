@@ -7,9 +7,11 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UseWPF>true</UseWPF>
+    <ApplicationIcon>Resources\Images\app.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
+    <Resource Include="Resources\Images\app.ico" />
     <None Update="tuya_control.py" CopyToOutputDirectory="PreserveNewest" />
   </ItemGroup>
 

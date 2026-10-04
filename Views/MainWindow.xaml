@@ -1,6 +1,7 @@
 <Window x:Class="F1_Redefined.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Icon="/Resources/Images/app.ico"
         Title="F1 Flag Lights" Height="500" Width="720" Background="#F3F5F7">
     <Grid Margin="20">
         <Grid.RowDefinitions>
