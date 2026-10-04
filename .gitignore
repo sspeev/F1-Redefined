@@ -1,0 +1,48 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.*
+!.env.example
+
+# Local device credentials and generated state
+devices.json
+snapshot.json
+tinytuya.json
+tuya-raw.json
+
+# Local runtime files
+undercutf1.exe
+*.log
