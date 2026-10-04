@@ -1,4 +1,4 @@
-namespace F1_Redefined.F1;
+namespace F1_Redefined.Services;
 
 public interface IGoveeLightController
 {

@@ -1,7 +1,6 @@
-using System.Diagnostics;
 using System.Windows;
 using System.Windows.Media;
-using F1_Redefined.SmartHome;
+using F1_Redefined.Services;
 
 namespace F1_Redefined;
 

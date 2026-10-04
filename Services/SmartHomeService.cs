@@ -4,7 +4,7 @@ using System.Net.Http;
 using F1_Redefined.Configuration;
 using F1_Redefined.F1;
 
-namespace F1_Redefined.SmartHome;
+namespace F1_Redefined.Services;
 
 public sealed class SmartHomeService(Action<string> log, Action<string> flagChanged) : IDisposable
 {

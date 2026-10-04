@@ -4,7 +4,7 @@ using System.Net.Sockets;
 using System.Text;
 using System.Text.Json;
 
-namespace F1_Redefined.F1;
+namespace F1_Redefined.Services;
 
 /// <summary>
 /// Controls Govee devices over LAN using Govee's local UDP protocol.

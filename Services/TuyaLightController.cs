@@ -1,7 +1,7 @@
 using System.Diagnostics;
 using System.IO;
 
-namespace F1_Redefined.F1;
+namespace F1_Redefined.Services;
 
 public sealed class TuyaLightController(
     string scriptPath,

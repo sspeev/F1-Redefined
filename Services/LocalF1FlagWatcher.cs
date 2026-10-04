@@ -1,7 +1,7 @@
 using System.Net.Http;
 using System.Text.Json;
 
-namespace F1_Redefined.F1;
+namespace F1_Redefined.Services;
 
 /// <summary>
 /// Polls a locally-running `undercutf1` instance's Data API for the latest
